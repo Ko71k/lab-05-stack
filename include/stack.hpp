@@ -1,4 +1,4 @@
-//Copyright 2021 Lasar1k <alf.ivan2002@gmail.com>
+//Copyright 2021 Ko71k <rassmagin.rrr@gmail.com>
 
 #ifndef INCLUDE_STACK_HPP_
 #define INCLUDE_STACK_HPP_
